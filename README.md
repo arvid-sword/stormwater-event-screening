@@ -44,4 +44,4 @@ stormwater-event-screening/
 ├── data/         # Data documentation and small reproducibility inputs
 ├── results/      # Processed summary tables and final numerical outputs
 ├── figures/      # Final manuscript figures
-└── notebooks/    # Clean analysis notebooks, if retained
+└── notebooks/    # Clean analysis notebooks
