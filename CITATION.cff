@@ -6,7 +6,7 @@ authors:
   - family-names: "Kota"
     given-names: "Hanuma"
 title: "Public-Data Stormwater Event Screening Across Oʻahu Streams"
-version: 1.0.0
+version: 0.1.0
 date-released: 2026-07-21
 repository-code: "https://github.com/arvid-sword/stormwater-event-screening"
 license: MIT
