@@ -1,14 +1,25 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this repository, please cite it as follows."
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "stormwater-event-screening"
+  - family-names: "Sword"
+    given-names: "Arvid"
+  - family-names: "Kota"
+    given-names: "Hanuma"
+title: "Public-Data Stormwater Event Screening Across Oʻahu Streams"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
 date-released: 2026-07-21
-url: "https://github.com/arvid-sword/stormwater-event-screening"
+repository-code: "https://github.com/arvid-sword/stormwater-event-screening"
+license: MIT
+abstract: >
+  A reproducible framework for screening stormwater events from publicly
+  available USGS records using Bayesian Online Changepoint Detection (BOCPD)
+  and comparison against a static discharge threshold.
+keywords:
+  - stormwater
+  - hydrology
+  - Bayesian online changepoint detection
+  - BOCPD
+  - USGS
+  - water quality
+  - environmental monitoring
+  - reproducible research
