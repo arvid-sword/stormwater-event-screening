@@ -1,0 +1,17 @@
+campaign_id,detected,n_alarms_in_window,lead_lag_minutes
+7,True,1,-25.0
+8,True,3,-91.0
+9,True,2,-245.0
+10,True,1,475.0
+11,True,1,-155.0
+12,True,1,-315.0
+13,True,1,-56.0
+14,True,2,-160.0
+15,True,1,-20.0
+16,True,2,-40.0
+17,True,1,34.0
+18,True,2,-31.0
+19,True,2,-6.0
+22,True,1,-50.0
+24,True,1,-265.0
+25,True,1,-110.0
