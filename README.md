@@ -36,12 +36,11 @@ USGS parameter codes:
 
 ```text
 stormwater-event-screening/
-├── README.md
-├── LICENSE
-├── CITATION.cff
-├── requirements.txt
-├── src/          # Data processing, BOCPD, alarm extraction, and evaluation code
-├── data/         # Data documentation and small reproducibility inputs
-├── results/      # Processed summary tables and final numerical outputs
-├── figures/      # Final manuscript figures
-└── notebooks/    # Clean analysis notebooks
+- README.md
+- LICENSE
+- CITATION.cff
+- requirements.txt
+- src/          # Data processing, BOCPD, alarm extraction, and evaluation code
+- data/         # Data documentation and small reproducibility inputs
+- figures/      # Final manuscript figures
+
